@@ -1,7 +1,7 @@
 React weather app. 
 
-![alt text](../images/github/screenshot1);
-<img src="../images/screenshot1.gif" width="300" height="200" />
+![alt text](./github/screenshot1.gif);
+<img src="./github/screenshot1.gif" width="300" height="200" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
